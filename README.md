@@ -1,3 +1,3 @@
-## ![Hello!](https://raw.githubusercontent.com/jda0/jda0/master/hello.png)
-
-I have a website that you could look at if you'd like to ([2d4.dev](//2d4.dev)). Have a great day!
+<p align="center">
+  <img src="https://github.com/jda0/jda0/blob/main/github-metrics.svg" alt="Metrics" />
+</p>
