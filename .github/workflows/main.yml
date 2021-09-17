@@ -5,7 +5,7 @@ on:
   push: {branches: ["master", "main"]}
 jobs:
   github-metrics:
-    runs-on: alpine-latest
+    runs-on: ubuntu-latest
     steps:
       # See action.yml for all options
       - uses: lowlighter/metrics@latest
