@@ -45,7 +45,6 @@ I'm a Brit in San Francisco writing code. I've lived in the UK, Hong Kong SAR an
 
 <div>
   <img src="https://skillicons.dev/icons?i=c" height="40" alt="c logo"  />
-  <img src="https://skillicons.dev/icons?i=coffeescript" height="40" alt="coffeescript logo"  />
   <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="cplusplus logo"  />
   <img src="https://skillicons.dev/icons?i=cs" height="40" alt="csharp logo"  />
   <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo"  />
