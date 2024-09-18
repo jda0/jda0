@@ -59,7 +59,7 @@ I'm a Brit in San Francisco writing code. I've lived in the UK, Hong Kong SAR an
   <img src="https://skillicons.dev/icons?i=webpack" height="40" alt="webpack logo" title="webpack" />
 </div>
 
-#### And my tools include:
+#### And my preferred tools include:
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=ai" height="40" alt="adobeillustrator logo" title="adobe illustrator" />
