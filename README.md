@@ -2,6 +2,8 @@
 
 I'm a Brit in San Francisco writing code. I've lived in the UK, Hong Kong SAR and the US.
 
+<img src="https://github-profile-trophy.vercel.app?username=jda0&theme=kimbie_dark&column=-1&row=1&no-bg=true&no-frame=true&title=-Commits,-Repositories,-PullRequest,-Stars,-Issues,-Reviews" height="96" alt="trophy graph"  />
+
 ## About me
 
 ✨ Creating bugs since my PC had a Pentium III.  
@@ -70,8 +72,3 @@ I'm a Brit in San Francisco writing code. I've lived in the UK, Hong Kong SAR an
   <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo" title="figma" />
   <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo" title="vscode" />
 </div>
-  
-
----
-
-<img src="https://github-profile-trophy.vercel.app?username=jda0&theme=kimbie_dark&column=-1&row=1&no-bg=true&no-frame=true&title=-Commits,-Repositories,-PullRequest,-Stars,-Issues,-Reviews" height="96" alt="trophy graph"  />
