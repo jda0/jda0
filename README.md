@@ -70,9 +70,10 @@ I'm a Brit in San Francisco writing code. I've lived in the UK, Hong Kong SAR an
   <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo" title="figma" />
   <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo" title="vscode" />
 </div>
+  
 
 ---
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app?username=jda0&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=jda0&theme=kimbie_dark&column=-1&row=1&no-bg=true&no-frame=true" height="150" alt="trophy graph"  />
 </div>
