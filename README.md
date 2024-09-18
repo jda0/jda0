@@ -75,5 +75,5 @@ I'm a Brit in San Francisco writing code. I've lived in the UK, Hong Kong SAR an
 ---
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app?username=jda0&theme=kimbie_dark&column=-1&row=1&no-bg=true&no-frame=true" height="150" alt="trophy graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=jda0&theme=kimbie_dark&column=-1&row=1&no-bg=true&no-frame=true&title=-Stars,-Issues,-Reviews" height="96" alt="trophy graph"  />
 </div>
