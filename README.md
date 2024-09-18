@@ -6,6 +6,7 @@ I'm a Brit in San Francisco writing code. I've lived in the UK, Hong Kong SAR an
 
 ✨ Creating bugs since my PC had a Pentium III.  
 📚 I'm currently enjoying Swift Embedded and Solid, and I'm curious about Gleam.  
+🤾 I enjoy board games, rock climbing and squash. I'm currently enjoying _Tiny Towns_ and playing pickleball.  
 🎯 Goals: stay busy
 
 ## I code with
