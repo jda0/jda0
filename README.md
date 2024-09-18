@@ -42,11 +42,10 @@ I'm a Brit in San Francisco writing code. I've lived in the UK, Hong Kong SAR an
 #### I'm familiar with, but don't currently regularly use:</h4>
 
 <div>
+  <img src="https://skillicons.dev/icons?i=arduino" height="40" alt="arduino logo" title="arduino" />
   <img src="https://skillicons.dev/icons?i=c" height="40" alt="c logo" title="c" />
   <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="cplusplus logo" title="c++" />
   <img src="https://skillicons.dev/icons?i=cs" height="40" alt="csharp logo" title="c#" />
-  <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo" title="express" />
-  <img src="https://skillicons.dev/icons?i=gamemakerstudio" height="40" alt="gamemakerstudio logo" title="gml"  />
   <img src="https://skillicons.dev/icons?i=graphql" height="40" alt="graphql logo" title="graphql" />
   <img src="https://skillicons.dev/icons?i=haskell" height="40" alt="haskell logo" title="haskell" />
   <img src="https://skillicons.dev/icons?i=haxe" height="40" alt="haxe logo" title="haxe" />
@@ -59,7 +58,7 @@ I'm a Brit in San Francisco writing code. I've lived in the UK, Hong Kong SAR an
   <img src="https://skillicons.dev/icons?i=webpack" height="40" alt="webpack logo" title="webpack" />
 </div>
 
-#### And my preferred tools include:
+#### My preferred tools include:
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=ai" height="40" alt="adobeillustrator logo" title="adobe illustrator" />
