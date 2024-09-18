@@ -64,7 +64,7 @@ I'm a Brit in San Francisco writing code. I've lived in the UK, Hong Kong SAR an
 <div align="left">
   <img src="https://skillicons.dev/icons?i=ai" height="40" alt="adobeillustrator logo" title="adobe illustrator" />
   <img src="https://skillicons.dev/icons?i=ps" height="40" alt="adobephotoshop logo" title="adobe photoshop" />
-  <img src="ttps://raw.githubusercontent.com/jda0/jda0/main/fusion.svg" height="40" alt="autodesk fusion logo" title="autodesk fusion" />
+  <img src="https://raw.githubusercontent.com/jda0/jda0/main/fusion.svg" height="40" alt="autodesk fusion logo" title="autodesk fusion" />
   <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo" title="figma" />
   <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo" title="vscode" />
 </div>
