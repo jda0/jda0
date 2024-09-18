@@ -40,7 +40,7 @@ I'm a Brit in San Francisco writing code. I've lived in the UK, Hong Kong SAR an
   <img src="https://skillicons.dev/icons?i=vite" height="40" alt="vite logo"  />
 </div>
 
-#### I'm familiar with, but no longer regularly use:</h4>
+#### I'm familiar with, but don't currently regularly use:</h4>
 
 <div>
   <img src="https://skillicons.dev/icons?i=c" height="40" alt="c logo"  />
