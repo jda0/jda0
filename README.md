@@ -7,7 +7,8 @@ I'm a Brit in San Francisco writing code. I've lived in the UK, Hong Kong SAR an
 ✨ Creating bugs since my PC had a Pentium III.  
 📚 I'm currently enjoying Swift Embedded and Solid, and I'm curious about Gleam.  
 🤾 I enjoy board games, rock climbing and squash. I'm currently enjoying _Tiny Towns_ and playing pickleball.  
-☕️ My daily coffee is an Origami pourover or a cappuccino. My current espresso recipe is 18g/40g/17s using Verve Streetlevel in a Pullman basket.  
+☕️ My daily coffee is an Origami pourover or a cappuccino.  
+&hairsp;&numsp;&numsp;Current espresso recipe: 18g/40g/17s using Verve Streetlevel in a Pullman basket.  
 🎯 Goals: stay busy
 
 ## I code with
