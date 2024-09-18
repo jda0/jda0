@@ -33,8 +33,8 @@ I'm a Brit in San Francisco writing code. I've lived in the UK, Hong Kong SAR an
 #### For fun:
 
 <div>
+  <img src="https://raw.githubusercontent.com/jda0/jda0/main/libSQL.svg" height="40" alt="libsql logo"  />
   <img src="https://skillicons.dev/icons?i=solidjs" height="40" alt="solid logo"  />
-  <img src="https://skillicons.dev/icons?i=sqlite" height="40" alt="sqlite logo"  />
   <img src="https://skillicons.dev/icons?i=swift" height="40" alt="swift logo"  />
   <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo"  />
   <img src="https://skillicons.dev/icons?i=vite" height="40" alt="vite logo"  />
