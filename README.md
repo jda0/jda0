@@ -5,7 +5,7 @@ I'm a Brit in San Francisco writing code. I've lived in the UK, Hong Kong SAR an
 ## About me
 
 ✨ Creating bugs since my PC had a Pentium III.  
-📚 I'm currently learning Swift Embedded and Solid.  
+📚 I'm currently enjoying Swift Embedded and Solid, and I'm curious about Gleam.  
 🎯 Goals: stay busy
 
 ## I code with
@@ -30,14 +30,13 @@ I'm a Brit in San Francisco writing code. I've lived in the UK, Hong Kong SAR an
   <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
 </div>
 
-#### For Fun:
+#### For fun:
 
 <div>
   <img src="https://skillicons.dev/icons?i=solidjs" height="40" alt="solid logo"  />
   <img src="https://skillicons.dev/icons?i=sqlite" height="40" alt="sqlite logo"  />
   <img src="https://skillicons.dev/icons?i=swift" height="40" alt="swift logo"  />
   <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo"  />
-  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
   <img src="https://skillicons.dev/icons?i=vite" height="40" alt="vite logo"  />
 </div>
 
