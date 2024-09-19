@@ -19,7 +19,7 @@ I'm a Brit in San Francisco writing code. I've lived in the UK, Hong Kong SAR an
 
 <div>
   <img src="https://skillicons.dev/icons?i=aws" height="40" alt="aws logo" title="aws"  />
-  <img src="https://raw.githubusercontent.com/jda0/jda0/main/celery.svg" height="40" alt="celery logo" title="celery" />
+  <img src="https://raw.githubusercontent.com/jda0/jda0/refs/heads/main/celery.svg" height="40" alt="celery logo" title="celery" />
   <img src="https://skillicons.dev/icons?i=css" height="40" alt="css logo" title="css" />
   <img src="https://skillicons.dev/icons?i=docker" height="40" alt="Docker" title="docker" />
   <img src="https://skillicons.dev/icons?i=fastapi" height="40" alt="fastapi logo" title="fastapi" />
