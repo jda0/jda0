@@ -36,6 +36,7 @@ I'm a Brit in San Francisco writing code. I've lived in the UK, Hong Kong SAR an
   <img src="https://skillicons.dev/icons?i=rollupjs" height="40" alt="rollupjs logo" title="rollupjs" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="40" alt="terraform logo" title="terraform"  />
   <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo" title="typescript" />
+  <img src="https://skillicons.dev/icons?i=webpack" height="40" alt="webpack logo" title="webpack" />
 </div>
 
 #### For fun:
@@ -68,7 +69,6 @@ I'm a Brit in San Francisco writing code. I've lived in the UK, Hong Kong SAR an
   <img src="https://skillicons.dev/icons?i=redux" height="40" alt="redux logo" title="redux" />
   <img src="https://skillicons.dev/icons?i=sass" height="40" alt="sass logo" title="sass" />
   <img src="https://skillicons.dev/icons?i=tensorflow" height="40" alt="tensorflow logo" title="tensorflow" />
-  <img src="https://skillicons.dev/icons?i=webpack" height="40" alt="webpack logo" title="webpack" />
 </div>
 
 #### My preferred tools include:
