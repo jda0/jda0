@@ -21,7 +21,8 @@ I'm a Brit in San Francisco writing code. I've lived in the UK, Hong Kong SAR an
   <img src="https://skillicons.dev/icons?i=aws" height="40" alt="aws logo" title="aws"  />
   <img src="https://raw.githubusercontent.com/jda0/jda0/refs/heads/main/celery.svg" height="40" alt="celery logo" title="celery" />
   <img src="https://skillicons.dev/icons?i=css" height="40" alt="css logo" title="css" />
-  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="Docker" title="docker" />
+  <img src="https://skillicons.dev/icons?i=cypress" height="40" alt="cypress logo" title="cypress" />
+  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo" title="docker" />
   <img src="https://skillicons.dev/icons?i=fastapi" height="40" alt="fastapi logo" title="fastapi" />
   <img src="https://skillicons.dev/icons?i=flask" height="40" alt="flask logo" title="flask" />
   <img src="https://skillicons.dev/icons?i=githubactions" height="40" alt="githubactions logo" title="github actions" />
@@ -44,12 +45,12 @@ I'm a Brit in San Francisco writing code. I've lived in the UK, Hong Kong SAR an
 <div>
   <img src="https://skillicons.dev/icons?i=bun" height="40" alt="bun logo" title="bun" />
   <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="cplusplus logo" title="c++" />
-  <img src="https://skillicons.dev/icons?i=deno" height="40" alt="deno logo" title="deno" />
   <img src="https://raw.githubusercontent.com/jda0/jda0/main/libSQL.svg" height="40" alt="libsql logo" title="libsql" />
   <img src="https://skillicons.dev/icons?i=solidjs" height="40" alt="solid logo" title="solid" />
   <img src="https://skillicons.dev/icons?i=swift" height="40" alt="swift logo" title="swift embedded" />
   <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo" title="tailwindcss" />
   <img src="https://skillicons.dev/icons?i=vite" height="40" alt="vite logo" title="vinxi" />
+  <img src="https://skillicons.dev/icons?i=vitest" height="40" alt="vitest logo" title="vitest" />
 </div>
 
 #### I'm familiar with, but don't currently regularly use:</h4>
@@ -59,6 +60,7 @@ I'm a Brit in San Francisco writing code. I've lived in the UK, Hong Kong SAR an
   <img src="https://skillicons.dev/icons?i=bots" height="40" alt="bots logo" title="bots" />
   <img src="https://skillicons.dev/icons?i=c" height="40" alt="c logo" title="c" />
   <img src="https://skillicons.dev/icons?i=cs" height="40" alt="csharp logo" title="c#" />
+  <img src="https://skillicons.dev/icons?i=deno" height="40" alt="deno logo" title="deno" />
   <img src="https://skillicons.dev/icons?i=elasticsearch" height="40" alt="elasticsearch logo" title="elasticsearch" />
   <img src="https://skillicons.dev/icons?i=graphql" height="40" alt="graphql logo" title="graphql" />
   <img src="https://skillicons.dev/icons?i=haskell" height="40" alt="haskell logo" title="haskell" />
@@ -74,11 +76,12 @@ I'm a Brit in San Francisco writing code. I've lived in the UK, Hong Kong SAR an
 #### My preferred tools include:
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=ai" height="40" alt="adobeillustrator logo" title="adobe illustrator" />
-  <img src="https://skillicons.dev/icons?i=ps" height="40" alt="adobephotoshop logo" title="adobe photoshop" />
-  <img src="https://raw.githubusercontent.com/jda0/jda0/main/fusion.svg" height="40" alt="autodesk fusion logo" title="autodesk fusion" />
   <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo" title="figma" />
+  <img src="https://raw.githubusercontent.com/jda0/jda0/main/fusion.svg" height="40" alt="autodesk fusion logo" title="autodesk fusion" />
+  <img src="https://skillicons.dev/icons?i=ai" height="40" alt="illustrator logo" title="adobe illustrator" />
   <img src="https://skillicons.dev/icons?i=md" height="40" alt="md logo" title="markdown" />
+  <img src="https://skillicons.dev/icons?i=notion" height="40" alt="notion logo" title="notion" />
+  <img src="https://skillicons.dev/icons?i=ps" height="40" alt="photoshop logo" title="adobe photoshop" />
   <img src="https://skillicons.dev/icons?i=pkl" height="40" alt="pkl logo" title="pkl" />
   <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo" title="vscode" />
 </div>
