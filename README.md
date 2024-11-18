@@ -43,6 +43,7 @@ I'm a Brit in San Francisco writing code. I've lived in the UK, Hong Kong SAR an
 
 <div>
   <img src="https://skillicons.dev/icons?i=bun" height="40" alt="bun logo" title="bun" />
+  <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="cplusplus logo" title="c++" />
   <img src="https://skillicons.dev/icons?i=deno" height="40" alt="deno logo" title="deno" />
   <img src="https://raw.githubusercontent.com/jda0/jda0/main/libSQL.svg" height="40" alt="libsql logo" title="libsql" />
   <img src="https://skillicons.dev/icons?i=solidjs" height="40" alt="solid logo" title="solid" />
@@ -57,7 +58,6 @@ I'm a Brit in San Francisco writing code. I've lived in the UK, Hong Kong SAR an
   <img src="https://skillicons.dev/icons?i=arduino" height="40" alt="arduino logo" title="arduino" />
   <img src="https://skillicons.dev/icons?i=bots" height="40" alt="bots logo" title="bots" />
   <img src="https://skillicons.dev/icons?i=c" height="40" alt="c logo" title="c" />
-  <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="cplusplus logo" title="c++" />
   <img src="https://skillicons.dev/icons?i=cs" height="40" alt="csharp logo" title="c#" />
   <img src="https://skillicons.dev/icons?i=elasticsearch" height="40" alt="elasticsearch logo" title="elasticsearch" />
   <img src="https://skillicons.dev/icons?i=graphql" height="40" alt="graphql logo" title="graphql" />
