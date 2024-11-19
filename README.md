@@ -65,6 +65,7 @@ I'm a Brit in San Francisco writing code. I've lived in the UK, Hong Kong SAR an
   <img src="https://skillicons.dev/icons?i=graphql" height="40" alt="graphql logo" title="graphql" />
   <img src="https://skillicons.dev/icons?i=haskell" height="40" alt="haskell logo" title="haskell" />
   <img src="https://skillicons.dev/icons?i=haxe" height="40" alt="haxe logo" title="haxe" />
+  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo" title="java" />
   <img src="https://skillicons.dev/icons?i=jenkins" height="40" alt="jenkins logo" title="jenkins" />
   <img src="https://skillicons.dev/icons?i=lua" height="40" alt="lua logo" title="lua" />
   <img src="https://skillicons.dev/icons?i=redis" height="40" alt="redis logo" title="redis" />
