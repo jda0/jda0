@@ -8,9 +8,10 @@ I'm a Brit in San Francisco writing code. I've lived in the UK, Hong Kong SAR an
 
 ✨ Creating bugs since my PC had a Pentium III.  
 📚 I'm currently enjoying Swift Embedded and Solid, and I'm curious about Gleam.  
-🤾 I enjoy board games, rock climbing and squash. I'm currently enjoying _River Valley Glassworks_ and playing pickleball.  
+🤾 I enjoy board games, rock climbing and squash. I'm currently enjoying Reiner Knizia's _Iliad (2025)_ and playing pickleball.  
 ☕️ My daily coffee is an Origami pourover or a piccolo (6.5oz) latte.  
-&hairsp;&numsp;&numsp;Current espresso recipe: 18g/40g/17s using Verve Holiday Blend in a Pullman basket.  
+&hairsp;&numsp;&numsp;Current espresso recipe: 18g/40g/24s using Verve Streetlevel Blend in a Pullman basket.  
+&hairsp;&numsp;&numsp;Current pourover: AMOC Columbia Rosado (Washed + Yeast Innoculated Thermal Shock).
 🎯 Goals: stay busy
 
 ## I code with
@@ -43,6 +44,7 @@ I'm a Brit in San Francisco writing code. I've lived in the UK, Hong Kong SAR an
 #### For fun:
 
 <div>
+  <img src="https://skillicons.dev/icons?i=astro" height="40" alt="astro logo" title="astro" />
   <img src="https://skillicons.dev/icons?i=bun" height="40" alt="bun logo" title="bun" />
   <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="cplusplus logo" title="c++" />
   <img src="https://raw.githubusercontent.com/jda0/jda0/main/libSQL.svg" height="40" alt="libsql logo" title="libsql" />
