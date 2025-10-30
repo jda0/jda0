@@ -7,11 +7,11 @@ I'm a Brit in San Francisco writing code. I've lived in the UK, Hong Kong SAR an
 ## About me
 
 ✨ Creating bugs since my PC had a Pentium III.  
-📚 I'm currently enjoying Swift Embedded and Solid, and I'm curious about Gleam.  
-🤾 I enjoy board games, rock climbing and squash. I'm currently enjoying Reiner Knizia's _Iliad (2025)_ and playing pickleball.  
+📚 I'm currently enjoying Raylib and Solid, and I'm curious about Gleam.  
+🤾 I enjoy board games, rock climbing and squash. I'm currently enjoying [Bruno Cathala & Théo Rivière's _Sea Salt and Paper (2022)_](https://boardgamegeek.com/boardgame/367220/sea-salt-and-paper).
 ☕️ My daily coffee is an Origami pourover or a piccolo (6.5oz) latte.  
-&hairsp;&numsp;&numsp;Current espresso recipe: 18g/40g/24s using Verve Streetlevel Blend in a Pullman basket.  
-&hairsp;&numsp;&numsp;Current pourover: AMOC Columbia Rosado (Washed + Yeast Innoculated Thermal Shock).
+&hairsp;&numsp;&numsp;Current espresso recipe: 18g/40g/28s using Verve Streetlevel Blend in a Pullman basket, with 3s preinfusion.  
+&hairsp;&numsp;&numsp;Current pourover: [View on Notion](https://jda0.notion.site/16fe0304d5168045bddec82d50ea7738?v=29ce0304d51680dcb632000cf7d56175&source=copy_link).
 🎯 Goals: stay busy
 
 ## I code with
@@ -48,10 +48,12 @@ I'm a Brit in San Francisco writing code. I've lived in the UK, Hong Kong SAR an
   <img src="https://skillicons.dev/icons?i=bun" height="40" alt="bun logo" title="bun" />
   <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="cplusplus logo" title="c++" />
   <img src="https://raw.githubusercontent.com/jda0/jda0/main/libSQL.svg" height="40" alt="libsql logo" title="libsql" />
+  <img src="https://raw.githubusercontent.com/jda0/jda0/main/raylib.svg" height="40" alt="raylib logo" title="raylib" />
   <img src="https://skillicons.dev/icons?i=solidjs" height="40" alt="solid logo" title="solid" />
   <img src="https://skillicons.dev/icons?i=swift" height="40" alt="swift logo" title="swift embedded" />
   <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo" title="tailwindcss" />
-  <img src="https://skillicons.dev/icons?i=vite" height="40" alt="vite logo" title="vinxi" />
+  <img src="https://raw.githubusercontent.com/jda0/jda0/main/tanstack.svg" height="40" alt="tanstack logo" title="tanstack" />
+  <img src="https://skillicons.dev/icons?i=vite" height="40" alt="vite logo" title="vite" />
   <img src="https://skillicons.dev/icons?i=vitest" height="40" alt="vitest logo" title="vitest" />
 </div>
 
