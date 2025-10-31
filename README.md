@@ -47,12 +47,12 @@ I'm a Brit in San Francisco writing code. I've lived in the UK, Hong Kong SAR an
   <img src="https://skillicons.dev/icons?i=astro" height="40" alt="astro logo" title="astro" />
   <img src="https://skillicons.dev/icons?i=bun" height="40" alt="bun logo" title="bun" />
   <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="cplusplus logo" title="c++" />
-  <img src="https://raw.githubusercontent.com/jda0/jda0/main/libSQL.svg" height="40" width="40" alt="libsql logo" title="libsql" />
-  <img src="https://raw.githubusercontent.com/jda0/jda0/main/raylib.svg" height="40" width="40" alt="raylib logo" title="raylib" />
+  <img src="https://raw.githubusercontent.com/jda0/jda0/refs/heads/main/libSQL.svg" height="40" width="40" alt="libsql logo" title="libsql" />
+  <img src="https://raw.githubusercontent.com/jda0/jda0/refs/heads/main/raylib.svg" height="40" width="40" alt="raylib logo" title="raylib" />
   <img src="https://skillicons.dev/icons?i=solidjs" height="40" alt="solid logo" title="solid" />
   <img src="https://skillicons.dev/icons?i=swift" height="40" alt="swift logo" title="swift embedded" />
   <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo" title="tailwindcss" />
-  <img src="https://raw.githubusercontent.com/jda0/jda0/main/tanstack.svg" height="40" width="40" alt="tanstack logo" title="tanstack" />
+  <img src="https://raw.githubusercontent.com/jda0/jda0/refs/heads/main/tanstack.svg" height="40" width="40" alt="tanstack logo" title="tanstack" />
   <img src="https://skillicons.dev/icons?i=vite" height="40" alt="vite logo" title="vite" />
   <img src="https://skillicons.dev/icons?i=vitest" height="40" alt="vitest logo" title="vitest" />
 </div>
