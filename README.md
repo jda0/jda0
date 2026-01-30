@@ -61,6 +61,8 @@ I'm a Brit in San Francisco writing code. I've lived in the UK, Hong Kong SAR an
 #### I'm familiar with, but don't currently regularly use:</h4>
 
 <div>
+  <img src="https://i.icoziv.workers.dev/icons?i=adobe-light" height="40" alt="adobe creative cloud logo" title="adobe creative cloud" />
+  <img src="https://skillicons.dev/icons?i=ps" height="40" alt="adobe photoshop logo" title="adobe photoshop" />
   <img src="https://skillicons.dev/icons?i=arduino" height="40" alt="arduino logo" title="arduino" />
   <img src="https://skillicons.dev/icons?i=bots" height="40" alt="bots logo" title="bots" />
   <img src="https://skillicons.dev/icons?i=c" height="40" alt="c logo" title="c" />
@@ -84,10 +86,7 @@ I'm a Brit in San Francisco writing code. I've lived in the UK, Hong Kong SAR an
 <div align="left">
   <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo" title="figma" />
   <img src="https://raw.githubusercontent.com/jda0/jda0/main/fusion.svg" height="40" alt="autodesk fusion logo" title="autodesk fusion" />
-  <img src="https://skillicons.dev/icons?i=ai" height="40" alt="illustrator logo" title="adobe illustrator" />
+  <img src="https://i.icoziv.workers.dev/icons?i=ghostty" height="40" alt="ghostty logo" title="ghostty" />
   <img src="https://skillicons.dev/icons?i=md" height="40" alt="md logo" title="markdown" />
-  <img src="https://skillicons.dev/icons?i=notion" height="40" alt="notion logo" title="notion" />
-  <img src="https://skillicons.dev/icons?i=ps" height="40" alt="photoshop logo" title="adobe photoshop" />
-  <img src="https://skillicons.dev/icons?i=pkl" height="40" alt="pkl logo" title="pkl" />
-  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo" title="vscode" />
+  <img src="https://i.icoziv.workers.dev/icons?i=zed" height="40" alt="zed logo" title="zed" />
 </div>
