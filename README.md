@@ -1,19 +1,27 @@
 # Hello
 
-I'm a Brit in San Francisco writing code. I've lived in the UK, Hong Kong SAR and the US.
-
-<img src="https://github-profile-trophy.vercel.app?username=jda0&theme=kimbie_dark&column=-1&row=1&no-bg=true&no-frame=true&title=-Commits,-Repositories,-PullRequest,-Stars,-Issues,-Reviews" height="96" alt="trophy graph"  />
+I'm a Brit in San Francisco writing code. I've lived in the UK, Hong Kong SAR and USA.
 
 ## About me
 
 ✨ Creating bugs since my PC had a Pentium III.  
 📚 I'm currently enjoying Raylib and Solid, and I'm curious about Gleam.  
-🤾 I enjoy [board games](https://boardgamegeek.com/profile/jda0), rock climbing and squash. I'm currently enjoying [Keith Baker and Jennifer Ellis' _Illimat (2017)_](https://boardgamegeek.com/boardgame/210040/illimat).  
+🤾 I enjoy [board games](https://boardgamegeek.com/profile/jda0) and squash. I'm currently enjoying [Keith Baker and Jennifer Ellis' _Illimat (2017)_](https://boardgamegeek.com/boardgame/210040/illimat) and [Johan Benvenuto's _Harmonies_ (2024)](https://boardgamegeek.com/boardgame/414317/harmonies); I'm most excited for [IV Studios' _Realm of Reckoning_ (2026)](https://boardgamegeek.com/boardgame/446893/realm-of-reckoning). 
 ☕️ My daily coffee is an Origami pourover or a piccolo (6.5oz) latte.  
-&hairsp;&numsp;&numsp;Current espresso recipe: 19g/44g/28s using Valor "Jolly Juice" blend in a [high-extraction](https://www.amazon.com/Normcore-58mm-Extraction-18g-Portafilter/dp/B0D79JDDMB/130-2662444-2918341) basket, with 3s preinfusion.  
+&hairsp;&numsp;&numsp;Current espresso recipe: 20g/46g/28s using Verve "Sermon" blend in a [high-extraction](https://www.amazon.com/Normcore-58mm-Extraction-18g-Portafilter/dp/B0D79JDDMB/130-2662444-2918341) basket, with 3s preinfusion.  
 &hairsp;&numsp;&numsp;Current pourover: [View on Notion](https://jda0.notion.site/16fe0304d5168045bddec82d50ea7738?v=29ce0304d51680dcb632000cf7d56175&source=copy_link).  
 🎯 Goals: stay busy
 
+## AI Policy
+
+My work exposes me to AI use and AI-adjacent development, both via LLMs and traditional NLP models. The landscape is changing quickly, but my stance has changed little: in development, LLMs should be used as a tool and not an end-to-end solution.
+
+ - LLMs are not architects, and it is more work to give an LLM full context of all facets of a problem (especially human problems) than to review it's work and account for those problems. It is a massive risk _not_ to and then blindly trust the output. I think we will continue to see the value of good judgement and experience.
+ - LLMs are probabilistic, and (like all models) are especially strong at common problems and especially off-the-rails on uncommon ones (which happen to the more interesting to solve).
+
+In 2019 I had the same reservations around model training that I do around LLMs. I am proud to have been part of the culture fostered at Roam that championed caution and leveraging the _very different_ strengths of man and machine: training models for the well-defined menial detailed tasks that fatigue humans (in order to increase task accuracy), and then give humans the best tools to complete the complex tasks that require that extra context, judgement and experience. I learned more and more daily - from smart people who welcomed my scepticism and evidence from the outcomes of our work - that this balance is important and beneficial, similar to how many surgeries are now performed with the aid of robots, to reduce risks and improve outcomes - but we would not want surgeons fully replaced with unsupervised automatons that would be less able to respond to unforseen events whether relating to the patient or in the theater environment. In this way, the world fulling rejecting AI would be taking a step back... but delegating to it fully would be too.
+
+Morally, I do not think this nuanced approach encourages the excess we currently see and rightly criticise in the AI industry. I do not use or endorse AI for use in original creative works, except those that fall under "generative art" and where use is fully attributed.
 
 ## I code with
 
