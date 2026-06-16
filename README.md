@@ -6,7 +6,7 @@ I'm a Brit in San Francisco writing code. I've lived in the UK, Hong Kong SAR an
 
 ✨ Creating bugs since my PC had a Pentium III.  
 📚 I'm currently enjoying Raylib and Solid, and I'm curious about Gleam.  
-🤾 I enjoy [board games](https://boardgamegeek.com/profile/jda0) and squash. I'm currently enjoying [Keith Baker and Jennifer Ellis' _Illimat (2017)_](https://boardgamegeek.com/boardgame/210040/illimat) and [Johan Benvenuto's _Harmonies_ (2024)](https://boardgamegeek.com/boardgame/414317/harmonies); I'm most excited for [IV Studios' _Realm of Reckoning_ (2026)](https://boardgamegeek.com/boardgame/446893/realm-of-reckoning). 
+🤾 I enjoy [board games](https://boardgamegeek.com/profile/jda0) and squash. I'm currently enjoying [Keith Baker and Jennifer Ellis' _Illimat (2017)_](https://boardgamegeek.com/boardgame/210040/illimat) and [Johan Benvenuto's _Harmonies_ (2024)](https://boardgamegeek.com/boardgame/414317/harmonies); I'm most excited for [IV Studios' _Realm of Reckoning_ (2026)](https://boardgamegeek.com/boardgame/446893/realm-of-reckoning).  
 ☕️ My daily coffee is an Origami pourover or a piccolo (6.5oz) latte.  
 &hairsp;&numsp;&numsp;Current espresso recipe: 20g/46g/28s using Verve "Sermon" blend in a [high-extraction](https://www.amazon.com/Normcore-58mm-Extraction-18g-Portafilter/dp/B0D79JDDMB/130-2662444-2918341) basket, with 3s preinfusion.  
 &hairsp;&numsp;&numsp;Current pourover: [View on Notion](https://jda0.notion.site/16fe0304d5168045bddec82d50ea7738?v=29ce0304d51680dcb632000cf7d56175&source=copy_link).  
