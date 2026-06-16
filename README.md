@@ -31,7 +31,7 @@ Morally, I do not think this nuanced approach encourages the excess we currently
   <img src="https://skillicons.dev/icons?i=aws" height="40" alt="aws logo" title="aws"  />
   <img src="https://raw.githubusercontent.com/jda0/jda0/refs/heads/main/celery.svg" height="40" alt="celery logo" title="celery" />
   <img src="https://skillicons.dev/icons?i=css" height="40" alt="css logo" title="css" />
-  <img src="https://skillicons.dev/icons?i=cypress" height="40" alt="cypress logo" title="cypress" />
+  <img src="https://skillicons.dev/icons?i=cypress&theme=light" height="40" alt="cypress logo" title="cypress" />
   <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo" title="docker" />
   <img src="https://skillicons.dev/icons?i=fastapi" height="40" alt="fastapi logo" title="fastapi" />
   <img src="https://skillicons.dev/icons?i=flask" height="40" alt="flask logo" title="flask" />
