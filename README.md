@@ -21,7 +21,9 @@ My work exposes me to AI use and AI-adjacent development, both via LLMs and trad
 
 In 2019 I had the same reservations around model training that I do around LLMs. I am proud to have been part of the culture fostered at Roam that championed caution and leveraging the _very different_ strengths of man and machine: training models for the well-defined menial detailed tasks that fatigue humans (in order to increase task accuracy), and then give humans the best tools to complete the complex tasks that require that extra context, judgement and experience. I learned more and more daily - from smart people who welcomed my scepticism, and evidence from the outcomes of our work - that this balance is important and beneficial. Similarly, many surgeries are now performed with the aid of robots to reduce risks and improve outcomes - but we would not want surgeons fully replaced with unsupervised automatons that would be less able to respond to unforseen events, whether relating to the patient or in the theater environment, and less accountable in the event of an incident. In this way, fulling rejecting AI would be taking a step back... but delegating to it fully would be running blindly off a cliff.
 
-Morally, I do not think this nuanced approach encourages the excess we currently see and rightly criticise in the AI industry. I do not use or endorse AI for use in original creative works, except those that fall under "generative art" and where use is fully attributed.
+Morally, I do not think this nuanced approach encourages the excess we currently see and rightly criticise in the AI industry. I do not use or endorse AI for use in "imitative" creative works (though I can see moral exceptions for "generative art"—where use is fully attributed—and tool use (e.g., the use of AI in photography for improved automated exposure and tone balancing fixes)).
+
+AI has not been used in the writing of this document.
 
 ## I code with
 
